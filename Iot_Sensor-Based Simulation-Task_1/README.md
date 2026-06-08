@@ -83,7 +83,7 @@ Buzzer
 * Embedded systems basics
 
  🎯 Internship Information
-
+ 
 Organization: CodeAlpha
 Internship Domain: Internet of Things (IoT)
 Task: Task 2 – Sensor-Based Simulation
