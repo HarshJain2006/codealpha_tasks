@@ -65,11 +65,13 @@ Buzzer
 📸 Simulation Output
 
 * Circuit Diagram Screenshot:-
+  ![Circuit Diagram](circuit_diagram.png)
   
 * Motion Detected Output Screenshot:-
+  ![Motion Detected](motion_detected_output.png)
   
 * No Motion Output Screenshot:-
-
+  ![No Motion](no_motion_output.png)
 
 📚 Learning Outcomes
 
