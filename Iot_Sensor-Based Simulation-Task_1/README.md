@@ -85,7 +85,9 @@ Buzzer
  🎯 Internship Information
  
 Organization: CodeAlpha
+
 Internship Domain: Internet of Things (IoT)
+
 Task: Task 2 – Sensor-Based Simulation
 
 👨‍💻 Author
