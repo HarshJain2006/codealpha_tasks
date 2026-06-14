@@ -69,15 +69,18 @@ LED Alert
 📸 Project Images
 
 Circuit Diagram
+
 <img width="1117" height="682" alt="Circuit diagram" src="https://github.com/user-attachments/assets/d7a4d79a-9056-49ac-bd04-907c53f06781" />
 
 
  Hardware Setup
+ 
 <img width="3060" height="4080" alt="Hardware setup" src="https://github.com/user-attachments/assets/fee7dde3-c170-4114-b4e6-f5fae411f8f8" />
 
  LCD Output
 
 <img width="1739" height="904" alt="output image 1" src="https://github.com/user-attachments/assets/293f2512-b215-4af6-a718-05ee0049c179" />
+
 
 <img width="1708" height="920" alt="output image 2" src="https://github.com/user-attachments/assets/e6f41033-3b76-4f42-a20f-a0167a75546f" />
 
